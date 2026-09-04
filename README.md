@@ -1,3 +1,5 @@
 Olá, eu sou Otávio Moretti, desenvolvedor back-end carioca do Rio de Janeiro, Brasil, formado em Programação Back-end pelo SENAI, com foco em construir soluções reais com APIs, bancos de dados e aplicações web completas. Tecnologias principais: C#, .NET, Python, FastAPI, APIs REST, MySQL, modelagem de dados, Git e GitHub. O que faço: desenvolvimento e integração de APIs, modelagem e persistência em bancos de dados, regras de negócio e serviços back-end, sistemas de agendamento e integrações de pagamento. Projetos: APIs com FastAPI e MySQL; soluções comerciais com agendamento e pagamentos, mantendo o código privado para preservar a confidencialidade dos clientes. Idiomas: português nativo, espanhol avançado, inglês básico. Contato profissional: morettidev021@gmail.com e 💼 LinkedIn:https://www.linkedin.com/in/ot%C3%A1vio-moretti-284214408/
 
 Disponível para projetos freelance, colaborações e oportunidades profissionais em desenvolvimento back-end. Do Rio para o código.
+
+Customer Manager API”: API para gerenciamento de clientes com Python, FastAPI e MySQL. Em seguida, “GitHub Copilot”: projeto prático criado durante meus estudos com GitHub Copilot, Git e GitHub.
